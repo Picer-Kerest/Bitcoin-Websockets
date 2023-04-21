@@ -1,0 +1,20 @@
+*.log
+*.pot
+.idea
+isolation
+*.pyc
+__pycache__/
+local_settings.py
+work.html
+work.txt
+.env
+cron_script.py
+text.txt
+*.sqlite3
+/db/*.sqlite3
+envir/
+celery_helper.txt
+docker helper.txt
+tasks.py
+celery.py
+staticfiles/
